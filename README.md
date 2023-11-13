@@ -33,6 +33,6 @@ to be able to participate and learn coding with Code Kentucky!
 ## Bucket List
   - [ ] Travel to Japan
   - [ ] Skydiving
-  - [ ] ==Learn coding==
+  - [ ] Learn coding
   - [x] Visit Switzerland to see Alps
   - [ ] ~~Go to Mars~~
