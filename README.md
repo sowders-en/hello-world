@@ -12,7 +12,7 @@ hello-world tutorial
 }
 ```
 
-==Hello-world==! My name's Elizabeth, but most people call me Liz. I'm just one human among the **8.07 billion** on our tiny planet, 
+Hello-world! My name's Elizabeth, but most people call me Liz. I'm just one human among the **8.07 billion** on our tiny planet, 
 surrounded by **200 billion trillion** stars within the **94 billion** light years of the universe. 
 While our lives seem so small in comparison, I have a strict belief that we're here to support each other, to show kindness, and to help each other learn and grow. 
 And that, by no means, is a small feat at all. 
